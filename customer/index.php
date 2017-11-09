@@ -16,7 +16,9 @@
 <?php addtitle("Customer Page"); ?>
 
 <?php require_once ('../includes/header_b.php'); ?>
-
+<!--Customer CSS -->
+<?php loadcss("style.css") ?>
+<?php require_once ('../includes/header_c.php'); ?>
 <!-- Body -->
 <h1>heading1!</h1>
 

@@ -27,10 +27,13 @@ function prefix(){
 
 //add the title should happen between with header_a and header_b
 function addtitle($title){
-    $c = "<title>$title</title>";
-    echo $c;
+    $t = "<title>$title</title>";
+    echo $t;
 }
 
-
-?>
+//load stylesheet
+function loadcss($stylesheetnamedotextention){
+    $l = "<link rel=\"stylesheet\" href=\"../css/$stylesheetnamedotextention\">";
+    echo $l;
+}
 

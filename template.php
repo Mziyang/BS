@@ -5,6 +5,7 @@
  * Date: 08/11/2017
  * Time: 1:40 PM
  */
+//copied form http://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
 ?>
 
 <!doctype html>
