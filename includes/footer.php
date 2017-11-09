@@ -6,9 +6,10 @@
  * Time: 12:43 AM
  */
 ?>
-
-<script src="<?php prefix(); ?>vendor/jquery-3.2.1-dist/jquery.min.js"></script>
-<script src="<?php prefix(); ?>vendor/popper-1.12.6-dist/popper.min.js"></script>
-<script src="<?php prefix(); ?>vendor/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="<?php prefix(); ?>js/jquery.min.js"></script>
+<script src="<?php prefix(); ?>js/popper.min.js"></script>
+<script src="<?php prefix(); ?>js/bootstrap.min.js"></script>
 </body>
 </html>
